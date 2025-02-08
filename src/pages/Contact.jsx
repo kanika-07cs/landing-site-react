@@ -4,7 +4,7 @@ import "../styles/contact.css"
 export default function Contact() {
   return (
     <div className='contact'>
-      <h3>Contact form</h3>
+      <h3>CONTACT FORM</h3>
       <form className="form">
         <label>Name:</label>
         <input type="text" name="name" placeholder="Your Name" className="content" required />
