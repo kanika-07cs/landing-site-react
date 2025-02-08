@@ -1,0 +1,29 @@
+.destination {
+    max-width: 600px;
+    margin: 20px auto;
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(129, 117, 10);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .destination h3 {
+    font-size: 25px;
+    color: antiquewhite;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+.places{
+    display: grid;
+    grid-template-columns: repeat(2,250px);
+    gap: 25px;
+}
+.places img {
+    width: 100%;
+    margin: 15px;
+    border-radius: 10px;
+}
+.places img:hover {
+    transform: scale(1.05); 
+  }
