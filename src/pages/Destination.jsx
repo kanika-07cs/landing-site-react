@@ -4,6 +4,8 @@ import china from "../assets/China.jpg"
 import tower from "../assets/eiffel-tower.webp"
 import navy from "../assets/RP_NAVY-PIER.jpg"
 import bali from "../assets/best-hotel-bali.jpeg"
+import bangkok from "../assets/Bangkog.jpg"
+import maldives from "../assets/maldives.webp"
 
 export default function Destination() {
   return (
@@ -14,6 +16,8 @@ export default function Destination() {
         <img src={tower} alt="tower" width={"150px"} height={"150px"}></img>
         <img src={navy} alt="navy" width={"150px"} height={"150px"}></img>
         <img src={bali} alt="bali" width={"150px"} height={"150px"}></img>
+        <img src={bangkok} alt="bangkok" width={"150px"} height={"150px"}></img>
+        <img src={maldives} alt="maldives" width={"150px"} height={"150px"}></img>
         </div>
     </div>
   )
