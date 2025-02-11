@@ -19,7 +19,7 @@ export default function Contact() {
         <label>Contact Id:</label>
         <input type="email" name="email" placeholder="Your Email" className="content" required />
         <label>Comments:</label>
-        <textarea name="message" placeholder="Your Message" className="content" required rows="2"></textarea>
+        <textarea name="message" placeholder="Your Message" className="content" rows="2"></textarea>
         <button type="submit" className="button">Submit</button><br/>
       </form>
     </div>

@@ -1,10 +1,8 @@
 .about{
     background-image: linear-gradient(to right, rgb(237, 87, 202),rgb(87, 90, 234));
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 30px;
     color: aliceblue;
     border-radius: 15px;
     padding: 7px;
-    margin: 7px;
-    margin-top: 25px;
 }

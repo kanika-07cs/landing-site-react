@@ -1,10 +1,22 @@
+
 .home{
     background-image: linear-gradient(to right, rgb(130, 239, 130),rgb(234, 182, 87));
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 25px;
     color: aliceblue;
-    border-radius: 15px;
-    padding: 7px;
-    margin: 7px;
-    margin-top: 25px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.sideHome1{
+    font-size: 40px;
+    background-color: hsla(0, 9%, 47%, 0.1);
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 80%;
+    height: fit-content;
+}
+.sideHome2{
+    font-size: 25px;
 }

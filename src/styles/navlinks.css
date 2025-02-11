@@ -12,8 +12,9 @@
 }
 .navlinks ul li{
     color: rgb(30, 22, 22);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
+    font-weight: bold;
     margin: 20px;
     cursor: pointer;
 }
